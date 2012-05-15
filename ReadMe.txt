@@ -1,4 +1,3 @@
-
 To install on Ubuntu, run the following:
 sudo apt-get install python-pygame python-shapely
 
@@ -12,4 +11,6 @@ python Night.py Game.txt
 
 The options and control keys are printed at start.
 
-More information in Russian: http://jolaf.livejournal.com/553516.html
+Open algorithm dicsussion, a year before (in Russian): http://forum.rpg.ru/index.php?showtopic=112184
+
+More information (in Russian): http://jolaf.livejournal.com/553516.html
