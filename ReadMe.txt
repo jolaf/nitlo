@@ -13,4 +13,6 @@ The options and control keys are printed at start.
 
 Open algorithm dicsussion, a year before (in Russian): http://forum.rpg.ru/index.php?showtopic=112184
 
-More information (in Russian): http://jolaf.livejournal.com/553516.html
+More information (in Russian): http://jolaf.livejournal.com/553516.htlm
+
+-- Moved from https://code.google.com/p/nitlo
